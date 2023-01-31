@@ -12,7 +12,8 @@
     "strict": true,
     "module": "commonjs",
     "moduleResolution": "node",
-    "sourceMap": true
+    "sourceMap": true,
+    "outDir": "dist"
   },
   "include": [
     "src"
